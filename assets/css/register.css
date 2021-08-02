@@ -1,0 +1,95 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+body{font-size:0.8em;}
+sidebar{display:none;}
+img{width:200px;}
+.contact {
+padding: 80px 0 0 0 !important;
+}
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #212121;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-weight: 300;
+}
+
+label {color:#ec1c2a;display:block;}
+
+.contact {
+width: 100%;
+padding: 50px 0 0 0;
+}
+
+form {
+  padding: 20px 0;
+  position: relative;
+  font-size:14px
+}
+
+img{width:120px;}
+
+form input {
+  outline:none;
+border: none;
+background-color: rgba(255, 255, 255);
+width: 250px;
+border-radius: 3px;
+padding: 5px 15px;
+text-align: left;
+font-size: 16px;
+color: #000;
+transition-duration: 0.25s;
+font-weight: 300;
+margin:10px;
+}
+
+form input:hover {
+background-color: white;
+width: 300px;
+color: #000;
+}
+
+form input:focus {
+background-color: white;
+width: 300px;
+color: #000;
+border: 2px solid #278dc1;
+}
+
+.send {
+  text-align: center;
+z-index:2;
+appearance: none;
+outline: 0;
+border: 0;
+padding: 5px 15px;
+border-radius: 3px;
+width: 150px;
+cursor: pointer;
+font-size: 18px;
+transition-duration: 0.25s;
+background-color: #424242;
+color: #FFF;
+border:1px solid #424242;
+}
+
+.send:hover {
+border:1px solid white;
+background-color: #424242;
+color: #FFF;
+width:150px;
+}
+
+.send:focus {
+  border:1px solid white;
+  background-color: #424242;
+  color: #FFF;
+  width:150px;
+  width: 150px;
+}

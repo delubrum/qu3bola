@@ -1,0 +1,322 @@
+{
+   "AE": {
+      "MobileRegex": "^971(5[0-9]{8})$",
+      "CountryCode": 971,
+      "MaxDigits": 9
+   },
+   "AG": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "AI": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "AO": {
+      "MobileRegex": "^244(9[0-9]{8})$",
+      "CountryCode": 244,
+      "MaxDigits": 9
+   },
+      "AR": {
+      "MobileRegex": "^54(9[0-9]{10})$",
+      "CountryCode": 54,
+      "MaxDigits": 11
+   },
+   "AT": {
+      "MobileRegex": "^43(6[0-9]{9})$",
+      "CountryCode": 43,
+      "MaxDigits": 10
+   },
+   "AU": {
+      "MobileRegex": "^61([4-5][0-9]{8})$",
+      "CountryCode": 61,
+      "MaxDigits": 9
+   },
+   "BB": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "BE": {
+      "MobileRegex": "^32(4[0-9]{8})$",
+      "CountryCode": 32,
+      "MaxDigits": 9
+   },
+   "BM": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "BO": {
+      "MobileRegex": "^591([6-7][0-9]{7})$",
+      "CountryCode": 591,
+      "MaxDigits": 8
+   },
+   "BR": {
+      "MobileRegex": "^55([1-9][1-9]9[0-9]{7,8})$",
+      "CountryCode": 55,
+      "MaxDigits": 11
+   },
+   "BS": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "CA": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "CH": {
+      "MobileRegex": "^41(7[0-9]{8})$",
+      "CountryCode": 41,
+      "MaxDigits": 9
+   },
+   "CL": {
+      "MobileRegex": "^56(9[0-9]{8})$",
+      "CountryCode": 56,
+      "MaxDigits": 9
+   },
+   "CO": {
+      "MobileRegex": "^57(3[0-9]{9})$",
+      "CountryCode": 57,
+      "MaxDigits": 10
+   },
+   "CR": {
+      "MobileRegex": "^506(8[0-9]{7})$",
+      "CountryCode": 506,
+      "MaxDigits": 8
+   },
+   "CU": {
+      "MobileRegex": "^53(5[0-9]{7})$",
+      "CountryCode": 53,
+      "MaxDigits": 8
+   },
+   "CZ": {
+      "MobileRegex": "^420([6-7][0-9]{8})$",
+      "CountryCode": 420,
+      "MaxDigits": 9
+   },
+   "DE": {
+      "MobileRegex": "^49(1[5,7][0-9]{9})$",
+      "CountryCode": 49,
+      "MaxDigits": 11
+   },
+   "DK": {
+      "MobileRegex": "^45([0-9]{8})$",
+      "CountryCode": 45,
+      "MaxDigits": 8
+   },
+   "DM": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "DO": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "EC": {
+      "MobileRegex": "^593(9[0-9]{8})$",
+      "CountryCode": 593,
+      "MaxDigits": 9
+   },
+   "ES": {
+      "MobileRegex": "^34([6-7][0-9]{8})$",
+      "CountryCode": 34,
+      "MaxDigits": 9
+   },
+   "FR": {
+      "MobileRegex": "^33(6[0-9]{8})$",
+      "CountryCode": 33,
+      "MaxDigits": 9
+   },
+   "GB": {
+      "MobileRegex": "^44(7[0-9]{9})$",
+      "CountryCode": 44,
+      "MaxDigits": 10
+   },
+   "GD": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "GR": {
+      "MobileRegex": "^30(6[0-9]{9})$",
+      "CountryCode": 30,
+      "MaxDigits": 10
+   },
+   "GT": {
+      "MobileRegex": "^502([3-5][0-9]{7})$",
+      "CountryCode": 502,
+      "MaxDigits": 8
+   },
+   "GY": {
+      "MobileRegex": "^592(6[0-9]{6})$",
+      "CountryCode": 592,
+      "MaxDigits": 7
+   },
+   "HN": {
+      "MobileRegex": "^504([3,8-9][0-9]{7})$",
+      "CountryCode": 504,
+      "MaxDigits": 8
+   },
+   "HU": {
+      "MobileRegex": "^36(20|30|31|50|70)([0-9]{7})$",
+      "CountryCode": 36,
+      "MaxDigits": 9
+   },
+   "IL": {
+      "MobileRegex": "^972(5[0-9]{8})$",
+      "CountryCode": 972,
+      "MaxDigits": 9
+   },
+   "IT": {
+      "MobileRegex": "^39(3[0-9]{9})$",
+      "CountryCode": 39,
+      "MaxDigits": 10
+   },
+   "JM": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "KN": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "KY": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "LC": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "MS": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "MX": {
+      "MobileRegex": "^52([2-9][0-9]{9})$",
+      "CountryCode": 52,
+      "MaxDigits": 10
+   },
+   "NI": {
+      "MobileRegex": "^505(8[0-9]{7})$",
+      "CountryCode": 505,
+      "MaxDigits": 8
+   },
+   "NL": {
+      "MobileRegex": "^31(6[0-9]{8})$",
+      "CountryCode": 31,
+      "MaxDigits": 9
+   },
+   "NO": {
+      "MobileRegex": "^47([4,9][0-9]{7})$",
+      "CountryCode": 47,
+      "MaxDigits": 8
+   },
+   "PA": {
+      "MobileRegex": "^507(6[0-9]{7})$",
+      "CountryCode": 507,
+      "MaxDigits": 8
+   },
+   "PE": {
+      "MobileRegex": "^51(9[0-9]{8})$",
+      "CountryCode": 51,
+      "MaxDigits": 9
+   },
+   "PL": {
+      "MobileRegex": "^48([0-9]{9})$",
+      "CountryCode": 48,
+      "MaxDigits": 9
+   },
+   "PR": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "PT": {
+      "MobileRegex": "^351(9[0-9]{8})$",
+      "CountryCode": 351,
+      "MaxDigits": 9
+   },
+   "QA": {
+      "MobileRegex": "^974([3,5-7][0-9]{7})$",
+      "CountryCode": 974,
+      "MaxDigits": 8
+   },
+   "RU": {
+      "MobileRegex": "^7(9[0-9]{9})$",
+      "CountryCode": 7,
+      "MaxDigits": 10
+   },
+   "SA": {
+      "MobileRegex": "^966(5[0-9]{8})$",
+      "CountryCode": 966,
+      "MaxDigits": 9
+   },
+   "SE": {
+      "MobileRegex": "^46(7[0-9]{8})$",
+      "CountryCode": 46,
+      "MaxDigits": 9
+   },
+   "SR": {
+      "MobileRegex": "^597([7-8][0-9]{6})$",
+      "CountryCode": 597,
+      "MaxDigits": 7
+   },
+   "SV": {
+      "MobileRegex": "^503(7[0-9]{7})$",
+      "CountryCode": 503,
+      "MaxDigits": 8
+   },
+   "SX": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "TC": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "TT": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "US": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "UY": {
+      "MobileRegex": "^598(9[0-9]{7})$",
+      "CountryCode": 598,
+      "MaxDigits": 8
+   },
+   "VC": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   },
+   "VE": {
+      "MobileRegex": "^58(4[0-9]{9})$",
+      "CountryCode": 58,
+      "MaxDigits": 10
+   },
+   "VG": {
+      "MobileRegex": "^1([2-9][0-9]{9})$",
+      "CountryCode": 1,
+      "MaxDigits": 10
+   }
+}
